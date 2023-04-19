@@ -1,0 +1,22 @@
+.heading{
+    color: rgb(121, 63, 30);
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color: black;
+}
+.First_box{
+    background-color: rgb(27, 25, 25);
+    color: white;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 15px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.First_box:hover{
+    background-color: orange;
+    
+}
+
